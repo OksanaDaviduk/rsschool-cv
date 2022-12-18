@@ -7,6 +7,28 @@
     box-sizing: border-box;
   }
 
+  html {
+    scroll-behavior: smooth; 
+  }
+
+  .nav-list {
+    list-style: none;
+    padding: 0 20px;
+    line-height: 50px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+  }
+
+  .nav-link {
+    text-decoration: none;
+  }
+
+  .container {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+
 body {
   font-family: 'OpenSans-Light', serif; 
   display: flex;
