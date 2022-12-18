@@ -1,5 +1,5 @@
 # OKSANA DAVIDUK
-![Image](100081811.JPEG)
+![Image](assets/img/100081811.JPEG)
 ## Contact
   *Phone:* +375292031640 <br />
   *E-mail:* sanadav@gmail.com <br />

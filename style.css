@@ -1,0 +1,15 @@
+@font-face {
+    font-family: OpenSans-Light;
+     src: url("assets/fonts/OpenSans-Light.ttf");
+   }
+
+* {
+    box-sizing: border-box;
+  }
+
+body {
+  font-family: 'OpenSans-Light', serif; 
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between; 
+}
