@@ -1,5 +1,5 @@
 # OKSANA DAVIDUK
-![Image](100081811.JPEG)
+![Image](assets/img/100081811.JPEG)
 ## Contact
   *Phone:* +375292031640 <br />
   *E-mail:* sanadav@gmail.com <br />
@@ -19,6 +19,6 @@ I am engineer-technolog, but I am passionate about Frontend Development.
 * Git course from Bogdan Stashchuk 
 ## Languages
 * Russian - native
-* Belarussion - C1
+* Belarusian - C1
 * English - A2
 * Polish - A1
